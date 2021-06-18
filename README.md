@@ -1,1 +1,1 @@
-![Herberth Leão's GitHub stats](https://github-readme-stats.vercel.app/api?username=herberthleao&count_private=true&include_all_commits=true&theme=nord&show_icons=true&icon_color=E0B0FF)
+![Herberth Leão's GitHub stats](https://github-readme-stats.vercel.app/api?username=herberthleao&count_private=true&include_all_commits=true&theme=nord&show_icons=true&icon_color=E0B0FF&bg_color=0A0A0A)
