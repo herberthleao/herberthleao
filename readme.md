@@ -8,7 +8,7 @@ Enjoy your stay!
 
 [![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=herberthleao&show_icons=true&theme=dark)](https://leao.sh)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herberthleao&layout=compact)](https://leao.sh)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herberthleao&layout=compact&langs_count=10)](https://leao.sh)
 
 ## Featured technologies I use
 
