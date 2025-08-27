@@ -6,4 +6,4 @@ Enjoy your stay!
 
 ## A summary of my work published here
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=herberthleao&show_icons=true&theme=dark)](https://leao.sh)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=herberthleao&show_icons=true&theme=dark)](https://herberth.pro.br)
