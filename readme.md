@@ -8,6 +8,8 @@ Enjoy your stay!
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=herberthleao&show_icons=true&theme=dark)](https://herberthleao.com)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herberthleao&layout=compact&hide=html,css,blade,php,javascript,typescript,svelte&exclude_repo=vehicle-registry-api)](https://herberthleao.com)
+
 ## My primary technologies
 
 [![Rust](https://img.shields.io/badge/Rust-white?style=for-the-badge&logo=rust&logoColor=black)](https://rust-lang.org)
