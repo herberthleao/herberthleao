@@ -12,7 +12,5 @@ Enjoy your stay!
 
 ## My primary technologies
 
-[![Rust](https://img.shields.io/badge/Rust-white?style=for-the-badge&logo=rust&logoColor=black)](https://rust-lang.org)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://java.com)
 [![Kotlin](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
-[![Shell](https://img.shields.io/badge/Shell-89E051?style=for-the-badge&logo=gnu-bash&logoColor=black)](https://en.wikipedia.org/wiki/Shell_script)
