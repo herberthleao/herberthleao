@@ -1,6 +1,6 @@
 # Hi there,
 
-I'm a software engineer working mainly in the back-end and focused in information security, who values ​​ethics and excellence in solutions. I also develop and enjoy getting involved in other parts and areas of Software Engineering, such as front-end, mobile, desktop and embedded. As a self-taught person, I like to learn new things all the time and use these learnings to build new projects and solve problems.
+I'm a software engineer working mainly in the back-end, focused on information security and open source, and driven by ethics and excellence in the solutions I build. I also enjoy getting involved in other areas of software engineering, such as front-end, mobile, desktop, and embedded systems. As a self-taught developer, I'm always learning new things and using what I learn to build projects and solve problems.
 
 Enjoy your stay!
 
