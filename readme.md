@@ -9,8 +9,3 @@ Enjoy your stay!
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=herberthleao&show_icons=true&theme=dark)](https://herberthleao.com)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herberthleao&layout=compact&hide=html,css,blade,php,javascript,typescript,svelte&exclude_repo=vehicle-registry-api)](https://herberthleao.com)
-
-## My primary technologies
-
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://java.com)
-[![Kotlin](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
